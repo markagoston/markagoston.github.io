@@ -35,7 +35,7 @@ git config user.email "MY_NAME@example.com"
 
 After these commands your `.git/config` file should have these lines
 
-```bash
+```
 [user]
 	name = FIRST_NAME LAST_NAME
 	email = MY_NAME@example.com
