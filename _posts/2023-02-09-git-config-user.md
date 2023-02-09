@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Configure git username and email
-date: 2023-02-0 8:05
+date: 2023-02-0 8:05:00
 categories: [git]
 tags: [git,github,config]
 ---
