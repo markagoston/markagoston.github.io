@@ -1,5 +1,13 @@
 # The Site Configuration
 
+
+
+# START THE SERVER
+
+# bundle exec jekyll serve --livereload
+
+
+
 # Import the theme
 theme: jekyll-theme-chirpy
 
